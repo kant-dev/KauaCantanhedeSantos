@@ -21,9 +21,9 @@ Breve descrição do projeto e sua relevância.
 - [Nome do Projeto 2](link_para_contribuição): Breve descrição da contribuição.
 
 ## Contato
-- LinkedIn: [Seu Perfil no LinkedIn](www.linkedin.com/in/kauã-cantanhêde-dos-santos-2b9b43259)
+- LinkedIn: [Kauã Cantanhede dos Santos]([www.linkedin.com/in/kauã-cantanhêde-dos-santos-2b9b43259](https://www.linkedin.com/in/kau%C3%A3-cantanh%C3%AAde-dos-santos-2b9b43259/))
 - Email: kaua.cantanhede.santos@gmail.com
-- 
+- Whatsapp: [Kauã Santo](http://Wa.me//+5563999466193)
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KauaCantanhedeSantos&show_icons=true&theme=dark)
