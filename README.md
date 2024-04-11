@@ -1,7 +1,7 @@
 # Olá, eu sou Kauã Cantanhede dos Santos
 
 ## 👨‍💻 Sobre Mim 
-Sou um estudante de Análise e Desenvolvimento de Sistemas com formação técnica em Redes de Computadores. Atualmente, estou focado em me aprimorar como desenvolvedor frontend, especialmente nas tecnologias web e mobile, como JavaScript, TypeScript, React e React Native. 
+Twenho 20 anos, sou um estudante de Análise e Desenvolvimento de Sistemas, estou no 3° Periodo, tenho formação técnica em Redes de Computadores pelo Instituto Feredal do Tocantins Campus Araguatins. Atualmente, estou focado em me aprimorar como desenvolvedor frontend, especialmente nas tecnologias web e mobile, como JavaScript, TypeScript, React e React Native. 
 
 ## 🛠️ Habilidades 
 Vale lembrar que todas estão em constante aprendizado, sempre buscando entender e aplicar as funcionalidades das mesmas.
