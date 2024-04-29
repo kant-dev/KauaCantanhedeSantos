@@ -4,11 +4,16 @@
 Tenho 20 anos, sou um estudante de Análise e Desenvolvimento de Sistemas, estou no 3° Periodo, tenho formação técnica em Redes de Computadores pelo Instituto Feredal do Tocantins Campus Araguatins. Atualmente, estou focado em me aprimorar como desenvolvedor frontend, especialmente nas tecnologias web e mobile, como JavaScript, TypeScript, React e React Native. 
 
 ## 🛠️ Habilidades 
-Vale lembrar que todas estão em constante aprendizado, sempre buscando entender e aplicar as funcionalidades das mesmas.
-- 💻 - Desenvolvimento Web: HTML, CSS, JavaScript, TypeScript
-- ⚛️ - Frameworks: React, React Native
+
+Expreriência: já fiz alguns projetos simples com essas, mas sempre buscando me reinventar
+- 💻 - Desenvolvimento Web: HTML, CSS, JavaScript.
+- 💾 - Banco de dados: Conhecimentos gerais, SQL.
+
+Aprimorando:
+- ⚛️ - Frameworks: TypeScript, React, React Native
 - 📦 - Versionamento: Git, GitHub
 - 🔌 - Redes de Computadores: Conceitos básicos, TCP/IP, Configuração de redes locais.
+- 🚀 - Outras linguagens: PHP, Python.
 
 ## 🚀 Projetos Destacados
 ### Sem projetos de grande escala no momento, apenas projetos simples para fins de estudos, aprofundar e aperfeiçoar o conhecimento.
