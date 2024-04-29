@@ -8,11 +8,11 @@ Tenho 20 anos, sou um estudante de Análise e Desenvolvimento de Sistemas, estou
 Expreriência: já fiz alguns projetos simples com essas, mas sempre buscando me reinventar
 - 💻 - Desenvolvimento Web: HTML, CSS, JavaScript.
 - 💾 - Banco de dados: Conhecimentos gerais, SQL.
+- 🔌 - Redes de Computadores: Conceitos básicos, TCP/IP, Configuração de redes locais.
 
-Aprimorando:
+Aprimorando: Estudando e aplicando em projetos simples
 - ⚛️ - Frameworks: TypeScript, React, React Native
 - 📦 - Versionamento: Git, GitHub
-- 🔌 - Redes de Computadores: Conceitos básicos, TCP/IP, Configuração de redes locais.
 - 🚀 - Outras linguagens: PHP, Python.
 
 ## 🚀 Projetos Destacados
