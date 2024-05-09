@@ -5,7 +5,7 @@ Tenho 20 anos, sou um estudante de Análise e Desenvolvimento de Sistemas, estou
 
 ## 🛠️ Habilidades 
 
-Expreriência: já fiz alguns projetos simples com essas, mas sempre buscando me reinventar
+Expreriência: já fiz alguns projetos simples com estas ferramentas, mas sempre buscando me reinventar
 - 💻 - Desenvolvimento Web: HTML, CSS, JavaScript.
 - 💾 - Banco de dados: Conhecimentos gerais, SQL.
 - 🔌 - Redes de Computadores: Conceitos básicos, TCP/IP, Configuração de redes locais.
