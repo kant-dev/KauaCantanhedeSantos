@@ -16,7 +16,7 @@ Aprimorando: Estudando e aplicando em projetos simples
 - 🚀 - Outras linguagens: PHP, Python.
 
 ## 🚀 Projetos Destacados
-- cactus project: um clone seguindo a base do tutorial do bedimcode, fazendo algumas modificadoções. [cactus-pj](https://github.com/kant-dev/cactus-pjt/tree/main)
+- [cactus-pj](https://github.com/kant-dev/cactus-pjt/tree/main): um clone seguindo a base do tutorial do bedimcode, fazendo algumas modificadoções.
 
 ## 💼 Contribuições em Projetos Open Source
 - [SCS - Smart Creative Solutions](link_para_contribuição): Por ser uma empresa junior ligada diretamente a faculdade, atuo como desenvolvedor front-end, sempre em horario não comercial.
