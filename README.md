@@ -28,10 +28,10 @@ Aprimorando: Estudando e aplicando em projetos simples
 - 📱 Whatsapp: [Kauã Santos](http://Wa.me//+5563999466193)
 
 ## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KauaCantanhedeSantos&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kant-dev&show_icons=true&theme=dark)
 
 ## 🔤 Linguagens Mais Utilizadas
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaCantanhedeSantos&layout=compact&theme=dark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kant-dev&layout=compact&theme=dark)
 
 ## 🙏 Agradecimentos
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato.
