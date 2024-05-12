@@ -16,10 +16,13 @@ Aprimorando: Estudando e aplicando em projetos simples
 - 🚀 - Outras linguagens: PHP, Python.
 
 ## 🚀 Projetos Destacados
-### Sem projetos de grande escala no momento, apenas projetos simples para fins de estudos, aprofundar e aperfeiçoar o conhecimento.
+- cactus project: um clone seguindo a base do tutorial do bedimcode, fazendo algumas modificadoções. [cactus-pj](https://github.com/kant-dev/cactus-pjt/tree/main)
 
 ## 💼 Contribuições em Projetos Open Source
 - [SCS - Smart Creative Solutions](link_para_contribuição): Por ser uma empresa junior ligada diretamente a faculdade, atuo como desenvolvedor front-end, sempre em horario não comercial.
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kant-dev&count_private=true&theme=radical" alt="Kauã" height="155"/>
+
 
 
 ## 🤝 Contato
@@ -32,6 +35,8 @@ Aprimorando: Estudando e aplicando em projetos simples
 
 ## 🔤 Linguagens Mais Utilizadas
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kant-dev&layout=compact&theme=dark)
+
+
 
 ## 🙏 Agradecimentos
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato.
