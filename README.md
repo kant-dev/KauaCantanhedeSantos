@@ -1,11 +1,8 @@
 # Olá, eu sou Kauã Cantanhede dos Santos
 
 ## 👨‍💻 Sobre Mim 
-### Técnico em Redes de Computadores
-  - Formado em 2022  - INSTITUTO FEDERAL DO TOCANTINS - CAMPUS ARAGUATINS.
-### Graduando em Análise e Desenvolvimento de Sistemas
-  - Inicio em 2023
-  - Encerra em 2025
+### Técnico em Redes de Computadores - INSTITUTO FEDERAL DO TOCANTINS - CAMPUS ARAGUATINS.
+### Graduando em Análise e Desenvolvimento de Sistemas - FACIMP WIDEN
 
 
 ## 🛠️ Habilidades 
